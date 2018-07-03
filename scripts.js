@@ -4,6 +4,7 @@ function showMessage() {
 
 function showWelcome() {
     alert('Welcome!, Bienvenido!, Willkommen!');
+}
 
 function showInstructions() {
     alert('Instructions!, Instrucciones!, Anweisungen!');
