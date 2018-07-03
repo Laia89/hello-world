@@ -15,3 +15,7 @@ h1 {
     background-color: violet;
     cursor: pointer;
 }
+
+h2, ul li {
+    color: #ffffff;
+}
